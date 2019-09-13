@@ -303,7 +303,7 @@ dependencies {
     kapt "com.google.dagger:dagger-compiler:$daggerVersion"
     kapt "com.google.dagger:dagger-android-processor:$daggerVersion"
 
-    compileOnly "org.projectlombok:lombok:1.18.8"
+    compileOnly "org.projectlombok:lombok:1.18.10"
     annotationProcessor "org.projectlombok:lombok:1.18.8"
 
     ktlint "com.pinterest:ktlint:0.34.2"
